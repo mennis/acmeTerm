@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.mennis.acmeterm.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.mennis.acmeterm.MyBundle
 
 class MyApplicationService {
 
